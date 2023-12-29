@@ -1,19 +1,23 @@
-# NotYandex Search Engine
-![Логотип команды not_yandex](not_yandex.jpg)
+<p align="center"><img src="Logo.png" alt="Logo" width="256"></p>
+
 ## Краткое описание
 Поисковой движок позволяет осуществлять поиск 
 по контенту сайта, и легко встраивается в ваш сайт/web приложение.
 ## Установка
 Для работы приложения требуется Python 3.9+.  
-После клонирования репозитория установите все необходимые модули и библиотеки:
+- Клонировать репозиторий в свою среду
+	```shell
+	git clone https://github.com/Nytrock/LyceumPyQT5Project.git
+	```
+- Установить все необходимые модули и библиотеки:
 ```
     pip install -r requirements.txt
 ```
-Для запуска приложения на Windows используйте:
+- Для запуска приложения на Windows используйте:
 ```
     python main.py
 ```
-MacOS и Linux:
+- MacOS и Linux:
 ```
     python3 main.py
 ```
