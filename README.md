@@ -7,7 +7,7 @@
 > Для работы приложения требуется Python 3.9+.  
 - Клонировать репозиторий в свою среду
 	```shell
-	git clone https://github.com/Nytrock/LyceumPyQT5Project.git
+	git clone https://github.com/Nytrock/NotYandexEngine.git
 	```
 - Установить все необходимые модули и библиотеки:
 	```
